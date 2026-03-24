@@ -10,7 +10,7 @@ An air writing alphabet recognition system based on the images of temporal spect
 ![Fig. 3](images/fig3.png)
 ![Fig. 4](images/fig4.png)
 ![Fig. 5](images/fig5.png)
-![learning curve](learning_curve.png)
+![learning curve](images/learning_curve.png)
 
 #### See also
 
